@@ -28,7 +28,7 @@ Project By:
               python3 preprocess.py
               python3 tfidf.py
               python3 server.py
-4. In your browser go to `http://0.0.0.0:3000/`
+4. In your browser go to `http://localhost:3000/`
 5. Type your query in the search bar and wait till it returns the relevant documents :)
 
 ---------------------------------------------------------------------------------------------------
